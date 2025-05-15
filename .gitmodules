@@ -1,0 +1,3 @@
+[submodule "micropython_xiao_esp32c3"]
+	path = micropython_xiao_esp32c3
+	url = git@github.com:IcingTomato/micropython_xiao_esp32c3.git

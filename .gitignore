@@ -1,0 +1,8 @@
+_archive/
+_env/
+micropython_xiao_esp32c3/
+
+**/config.h
+**/config.cpp
+
+
